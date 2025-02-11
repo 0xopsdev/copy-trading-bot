@@ -40,5 +40,5 @@ Supported on Raydium, Jupiter and Pumpfun
 ```
 
 # 👤 Author
-### Telegram: [NeloLab](https://t.me/NeloLab)   
-https://t.me/NeloLab
+### Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
+https://t.me/Meta0xFlip
