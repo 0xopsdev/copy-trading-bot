@@ -39,6 +39,6 @@ Supported on 🌍**Raydium**🌍, 🌍**Jupiter**🌍 and 🌍**Pumpfun**🌍.
 }
 ```
 
-# 👤 Author
-### Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
+# 👨‍💻 Author
+### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
 https://t.me/Meta0xFlip
