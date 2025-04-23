@@ -40,5 +40,5 @@ Supported on 🌍**Raydium**🌍, 🌍**Jupiter**🌍 and 🌍**Pumpfun**🌍.
 ```
 
 # 👨‍💻 Author
-### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
-https://t.me/Meta0xFlip
+### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
+https://t.me/its0xopsdev
